@@ -1,6 +1,6 @@
 # Patrick J. Hoyt
-   New York, NY | ptrckhoyt120@gmail.com | (781) 374-3176  
-linkedin.com/in/patrick-hoyt/ | stackoverflow.com/users/story/8145062 | github.com/phoyt1
+   New York, NY | ptrckhoyt120@gmail.com 
+linkedin.com/in/patrick-hoyt/ | stackoverflow.com/users/story/8145062
 
 ## TECHNICAL SKILLS
    Proficient: Javascript, Node.js, React.js, Redux, Express, Sequelize, SQL, React Native, JIRA, HTML, CSS, Agile development  
